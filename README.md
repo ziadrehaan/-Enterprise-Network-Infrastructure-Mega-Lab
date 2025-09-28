@@ -166,15 +166,12 @@ The enterprise network simulation was successfully built with:
 - ✅ **Security mechanisms** to protect the internal infrastructure  
 
 This setup demonstrates best practices for scalable, secure, and manageable enterprise networks and
-<div align="right" style="display: flex; justify-content: flex-end; align-items: center;">
+<div style="display: flex; justify-content: flex-end; align-items: center; gap: 6px;">
   <img src="https://i.postimg.cc/yxy6x7F6/image.png" 
        alt="image" 
-       width="40" 
-       style="margin-right: 8px;">
+       style="width: 32px; height: 32px; object-fit: contain; display: block;">
   <a href="mailto:zezorehan938@gmail.com" 
-     style="font-weight: bold; font-size: 20px; color: #2e89ff; text-decoration: underline;">
+     style="font-weight: bold; font-size: 20px; color: #2e89ff; text-decoration: underline; line-height: 1; display: flex; align-items: center;">
     𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷
   </a>
 </div>
-
-
