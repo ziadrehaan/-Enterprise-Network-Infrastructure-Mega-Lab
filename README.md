@@ -1,4 +1,5 @@
 # 🏢 Enterprise Network Infrastructure – Mega Lab 
+[![Whats-App-Image-2025-09-28-at-16-13-08-90ed7152.jpg](https://i.postimg.cc/TwTrh3bv/Whats-App-Image-2025-09-28-at-16-13-08-90ed7152.jpg)](https://postimg.cc/PLFLRhKS)
 ---
 ## 📌 Overview
 
