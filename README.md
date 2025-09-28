@@ -169,8 +169,8 @@ The enterprise network simulation was successfully built with:
 This setup demonstrates best practices for scalable, secure, and manageable enterprise networks and
 
 
+<img src="https://i.postimg.cc/wjxCCQPC/Whats-App-Image-2025-09-28-at-15-31-33-73efecf6.jpg" width="50%" />
 
-[![Whats-App-Image-2025-09-28-at-15-31-33-73efecf6.jpg](https://i.postimg.cc/wjxCCQPC/Whats-App-Image-2025-09-28-at-15-31-33-73efecf6.jpg)](https://postimg.cc/rKbZWxqj)
 <div align="right">
  <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
 </div>
