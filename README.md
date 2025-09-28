@@ -151,7 +151,7 @@ dns-server 192.168.1.200
 | [`EnterpriseNetwork.pkt`](./EnterpriseNetwork.pkt) | Main Cisco Packet Tracer project |
 | [`topology.png`](./topology.png)         | Network topology diagram         |
 | [`subnet-plan.png`](./subnet-plan.png)      | Subnetting and IP planning chart |
-| [`Documentation.pdf`](./Documentation.pdf)    | Full technical documentation     |
+| [`Documentation.pdf`](./EnterpriseNetwork1.pdf )    | Full technical documentation     |
 | [`README.md`](./README.md)            | Project documentation (this file)|
 
 ---
