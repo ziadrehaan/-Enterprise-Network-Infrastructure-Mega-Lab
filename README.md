@@ -1,11 +1,5 @@
-# 🏢 Enterprise Network Infrastructure – Mega Lab (NTI Final Project)
+# 🏢 Enterprise Network Infrastructure – Mega Lab 
 
-📁 Cisco Packet Tracer Simulation  
-🎓 Created for: NTI Final CCNA Lab  
-👨‍💻 Author: Ziad Rehan  
-📅 Date: September 2025
-
----
 
 ## 📌 Overview
 
