@@ -171,7 +171,18 @@ This setup demonstrates best practices for scalable, secure, and manageable ente
 
 
 <div align="right">
- 
-<img src="https://i.postimg.cc/wjxCCQPC/Whats-App-Image-2025-09-28-at-15-31-33-73efecf6.jpg" width="45" />
+## تأثير الـ Glow الأخضر (Green Glow Effect)
+
+لعمل تأثير توهج أخضر مشابه للصورة، استخدم الكود التالي:
+
+css
+.glow-effect {
+  width: 100px;
+  height: 100px;
+  filter: drop-shadow(0 0 5px #39ff14) drop-shadow(0 0 10px #39ff14) drop-shadow(0 0 20px #39ff14);
+  background-color: black;
+  border-radius: 10px;
+}
+
  <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
 </div>
