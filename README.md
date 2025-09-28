@@ -169,11 +169,12 @@ This setup demonstrates best practices for scalable, secure, and manageable ente
 <div align="right" style="display: flex; justify-content: flex-end; align-items: center;">
   <img src="https://i.postimg.cc/yxy6x7F6/image.png" 
        alt="image" 
-       width="24" 
-       style="vertical-align: middle; margin-right: 6px;">
+       width="40" 
+       style="margin-right: 8px;">
   <a href="mailto:zezorehan938@gmail.com" 
-     style="font-weight: bold; font-size: 18px; line-height: 24px; display: flex; align-items: center; color: #2e89ff; text-decoration: underline;">
+     style="font-weight: bold; font-size: 20px; color: #2e89ff; text-decoration: underline;">
     𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷
   </a>
 </div>
+
 
