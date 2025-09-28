@@ -1,5 +1,5 @@
 # 🏢 Enterprise Network Infrastructure – Mega Lab 
-
+---
 ## 📌 Overview
 
 This project simulates a full enterprise network design implemented in Cisco Packet Tracer. It focuses on segmenting departments using **VLANs**, implementing **inter-VLAN routing** with **Router-on-a-Stick**, **DHCP server configuration**, subnetting via **VLSM**, and adding **Layer 2 security features**.  
