@@ -167,6 +167,13 @@ The enterprise network simulation was successfully built with:
 
 This setup demonstrates best practices for scalable, secure, and manageable enterprise networks and
 <div align="right" style="display: flex; justify-content: flex-end; align-items: center;">
-  <img src="https://i.postimg.cc/yxy6x7F6/image.png" alt="image" width="40" style="vertical-align: middle;">
-  <a href="mailto:zezorehan938@gmail.com" style="margin-left: 4px; font-weight: bold;">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>
+  <img src="https://i.postimg.cc/yxy6x7F6/image.png" 
+       alt="image" 
+       width="24" 
+       style="vertical-align: middle; margin-right: 6px;">
+  <a href="mailto:zezorehan938@gmail.com" 
+     style="font-weight: bold; font-size: 18px; line-height: 24px; display: flex; align-items: center; color: #2e89ff; text-decoration: underline;">
+    𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷
+  </a>
 </div>
+
