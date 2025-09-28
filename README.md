@@ -169,20 +169,8 @@ The enterprise network simulation was successfully built with:
 This setup demonstrates best practices for scalable, secure, and manageable enterprise networks and
 
 
-
-<div align="right">
-## تأثير الـ Glow الأخضر (Green Glow Effect)
-
-لعمل تأثير توهج أخضر مشابه للصورة، استخدم الكود التالي:
-
-css
-.glow-effect {
-  width: 100px;
-  height: 100px;
-  filter: drop-shadow(0 0 5px #39ff14) drop-shadow(0 0 10px #39ff14) drop-shadow(0 0 20px #39ff14);
-  background-color: black;
-  border-radius: 10px;
-}
-
+[![image.png](https://i.postimg.cc/6Qbv6fBh/image.png)](https://postimg.cc/R3fFXf63)
+<div align="right" [![image.png](https://i.postimg.cc/6Qbv6fBh/image.png)](https://postimg.cc/R3fFXf63)>
+ 
  <a href="mailto:zezorehan938@gmail.com">𝓩𝓲𝓪𝓭𝓻𝓮𝓱𝓪𝓪𝓷</a>  
 </div>
